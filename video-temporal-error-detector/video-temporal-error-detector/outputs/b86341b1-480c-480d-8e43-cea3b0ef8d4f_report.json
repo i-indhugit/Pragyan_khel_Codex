@@ -1,0 +1,6034 @@
+{
+  "video_info": {
+    "fps": 25.0,
+    "frame_count": 752,
+    "width": 640,
+    "height": 360,
+    "duration": 30.08
+  },
+  "statistics": {
+    "total_frames": 752,
+    "drops_detected": 0,
+    "merges_detected": 0,
+    "normal_frames": 752,
+    "processing_time": 15.49
+  },
+  "frames": [
+    {
+      "frame_index": 0,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 0.0,
+      "sharpness": 737.04,
+      "frame_diff": 0
+    },
+    {
+      "frame_index": 1,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 40.0,
+      "sharpness": 666.49,
+      "frame_diff": 5.53
+    },
+    {
+      "frame_index": 2,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 80.0,
+      "sharpness": 684.05,
+      "frame_diff": 5.49
+    },
+    {
+      "frame_index": 3,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 120.0,
+      "sharpness": 658.47,
+      "frame_diff": 5.06
+    },
+    {
+      "frame_index": 4,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 160.0,
+      "sharpness": 679.35,
+      "frame_diff": 5.07
+    },
+    {
+      "frame_index": 5,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 200.0,
+      "sharpness": 660.05,
+      "frame_diff": 5.1
+    },
+    {
+      "frame_index": 6,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 240.0,
+      "sharpness": 669.67,
+      "frame_diff": 5.03
+    },
+    {
+      "frame_index": 7,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 280.0,
+      "sharpness": 641.96,
+      "frame_diff": 5.0
+    },
+    {
+      "frame_index": 8,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 320.0,
+      "sharpness": 698.13,
+      "frame_diff": 5.11
+    },
+    {
+      "frame_index": 9,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 360.0,
+      "sharpness": 675.37,
+      "frame_diff": 4.82
+    },
+    {
+      "frame_index": 10,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 400.0,
+      "sharpness": 690.65,
+      "frame_diff": 5.69
+    },
+    {
+      "frame_index": 11,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 440.0,
+      "sharpness": 670.71,
+      "frame_diff": 4.87
+    },
+    {
+      "frame_index": 12,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 480.0,
+      "sharpness": 749.4,
+      "frame_diff": 5.38
+    },
+    {
+      "frame_index": 13,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 520.0,
+      "sharpness": 711.43,
+      "frame_diff": 4.74
+    },
+    {
+      "frame_index": 14,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 560.0,
+      "sharpness": 703.18,
+      "frame_diff": 4.94
+    },
+    {
+      "frame_index": 15,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 600.0,
+      "sharpness": 701.34,
+      "frame_diff": 4.79
+    },
+    {
+      "frame_index": 16,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 640.0,
+      "sharpness": 721.92,
+      "frame_diff": 4.57
+    },
+    {
+      "frame_index": 17,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 680.0,
+      "sharpness": 696.37,
+      "frame_diff": 4.68
+    },
+    {
+      "frame_index": 18,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 720.0,
+      "sharpness": 726.85,
+      "frame_diff": 4.63
+    },
+    {
+      "frame_index": 19,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 760.0,
+      "sharpness": 713.02,
+      "frame_diff": 4.72
+    },
+    {
+      "frame_index": 20,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 800.0,
+      "sharpness": 743.75,
+      "frame_diff": 4.99
+    },
+    {
+      "frame_index": 21,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 840.0,
+      "sharpness": 727.42,
+      "frame_diff": 4.81
+    },
+    {
+      "frame_index": 22,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 880.0,
+      "sharpness": 760.02,
+      "frame_diff": 4.65
+    },
+    {
+      "frame_index": 23,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 920.0,
+      "sharpness": 742.82,
+      "frame_diff": 4.9
+    },
+    {
+      "frame_index": 24,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 960.0,
+      "sharpness": 774.27,
+      "frame_diff": 5.99
+    },
+    {
+      "frame_index": 25,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 1000.0,
+      "sharpness": 766.28,
+      "frame_diff": 5.72
+    },
+    {
+      "frame_index": 26,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 1040.0,
+      "sharpness": 783.87,
+      "frame_diff": 5.79
+    },
+    {
+      "frame_index": 27,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 1080.0,
+      "sharpness": 751.94,
+      "frame_diff": 5.58
+    },
+    {
+      "frame_index": 28,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 1120.0,
+      "sharpness": 754.89,
+      "frame_diff": 4.98
+    },
+    {
+      "frame_index": 29,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 1160.0,
+      "sharpness": 756.71,
+      "frame_diff": 4.83
+    },
+    {
+      "frame_index": 30,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 1200.0,
+      "sharpness": 772.14,
+      "frame_diff": 5.17
+    },
+    {
+      "frame_index": 31,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 1240.0,
+      "sharpness": 746.93,
+      "frame_diff": 5.29
+    },
+    {
+      "frame_index": 32,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 1280.0,
+      "sharpness": 769.57,
+      "frame_diff": 5.33
+    },
+    {
+      "frame_index": 33,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 1320.0,
+      "sharpness": 773.79,
+      "frame_diff": 5.04
+    },
+    {
+      "frame_index": 34,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 1360.0,
+      "sharpness": 792.04,
+      "frame_diff": 5.07
+    },
+    {
+      "frame_index": 35,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 1400.0,
+      "sharpness": 781.21,
+      "frame_diff": 5.03
+    },
+    {
+      "frame_index": 36,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 1440.0,
+      "sharpness": 795.05,
+      "frame_diff": 5.6
+    },
+    {
+      "frame_index": 37,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 1480.0,
+      "sharpness": 769.79,
+      "frame_diff": 4.86
+    },
+    {
+      "frame_index": 38,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 1520.0,
+      "sharpness": 804.95,
+      "frame_diff": 4.9
+    },
+    {
+      "frame_index": 39,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 1560.0,
+      "sharpness": 791.09,
+      "frame_diff": 5.06
+    },
+    {
+      "frame_index": 40,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 1600.0,
+      "sharpness": 775.83,
+      "frame_diff": 5.16
+    },
+    {
+      "frame_index": 41,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 1640.0,
+      "sharpness": 756.33,
+      "frame_diff": 5.92
+    },
+    {
+      "frame_index": 42,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 1680.0,
+      "sharpness": 787.52,
+      "frame_diff": 5.46
+    },
+    {
+      "frame_index": 43,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 1720.0,
+      "sharpness": 758.31,
+      "frame_diff": 5.19
+    },
+    {
+      "frame_index": 44,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 1760.0,
+      "sharpness": 753.23,
+      "frame_diff": 5.2
+    },
+    {
+      "frame_index": 45,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 1800.0,
+      "sharpness": 758.04,
+      "frame_diff": 5.21
+    },
+    {
+      "frame_index": 46,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 1840.0,
+      "sharpness": 800.91,
+      "frame_diff": 5.19
+    },
+    {
+      "frame_index": 47,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 1880.0,
+      "sharpness": 757.58,
+      "frame_diff": 5.37
+    },
+    {
+      "frame_index": 48,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 1920.0,
+      "sharpness": 795.79,
+      "frame_diff": 5.88
+    },
+    {
+      "frame_index": 49,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 1960.0,
+      "sharpness": 757.25,
+      "frame_diff": 5.18
+    },
+    {
+      "frame_index": 50,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 2000.0,
+      "sharpness": 791.87,
+      "frame_diff": 5.72
+    },
+    {
+      "frame_index": 51,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 2040.0,
+      "sharpness": 754.83,
+      "frame_diff": 5.8
+    },
+    {
+      "frame_index": 52,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 2080.0,
+      "sharpness": 773.73,
+      "frame_diff": 5.47
+    },
+    {
+      "frame_index": 53,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 2120.0,
+      "sharpness": 765.25,
+      "frame_diff": 5.67
+    },
+    {
+      "frame_index": 54,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 2160.0,
+      "sharpness": 795.86,
+      "frame_diff": 5.56
+    },
+    {
+      "frame_index": 55,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 2200.0,
+      "sharpness": 773.86,
+      "frame_diff": 5.25
+    },
+    {
+      "frame_index": 56,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 2240.0,
+      "sharpness": 796.27,
+      "frame_diff": 5.02
+    },
+    {
+      "frame_index": 57,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 2280.0,
+      "sharpness": 763.08,
+      "frame_diff": 5.01
+    },
+    {
+      "frame_index": 58,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 2320.0,
+      "sharpness": 835.87,
+      "frame_diff": 4.98
+    },
+    {
+      "frame_index": 59,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 2360.0,
+      "sharpness": 811.87,
+      "frame_diff": 4.87
+    },
+    {
+      "frame_index": 60,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 2400.0,
+      "sharpness": 808.62,
+      "frame_diff": 5.46
+    },
+    {
+      "frame_index": 61,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 2440.0,
+      "sharpness": 784.1,
+      "frame_diff": 4.79
+    },
+    {
+      "frame_index": 62,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 2480.0,
+      "sharpness": 829.19,
+      "frame_diff": 4.72
+    },
+    {
+      "frame_index": 63,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 2520.0,
+      "sharpness": 796.37,
+      "frame_diff": 4.67
+    },
+    {
+      "frame_index": 64,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 2560.0,
+      "sharpness": 776.55,
+      "frame_diff": 4.79
+    },
+    {
+      "frame_index": 65,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 2600.0,
+      "sharpness": 780.53,
+      "frame_diff": 4.72
+    },
+    {
+      "frame_index": 66,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 2640.0,
+      "sharpness": 820.19,
+      "frame_diff": 4.76
+    },
+    {
+      "frame_index": 67,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 2680.0,
+      "sharpness": 793.79,
+      "frame_diff": 5.04
+    },
+    {
+      "frame_index": 68,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 2720.0,
+      "sharpness": 785.45,
+      "frame_diff": 5.21
+    },
+    {
+      "frame_index": 69,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 2760.0,
+      "sharpness": 792.97,
+      "frame_diff": 5.7
+    },
+    {
+      "frame_index": 70,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 2800.0,
+      "sharpness": 766.44,
+      "frame_diff": 6.08
+    },
+    {
+      "frame_index": 71,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 2840.0,
+      "sharpness": 736.19,
+      "frame_diff": 5.14
+    },
+    {
+      "frame_index": 72,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 2880.0,
+      "sharpness": 791.4,
+      "frame_diff": 5.46
+    },
+    {
+      "frame_index": 73,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 2920.0,
+      "sharpness": 782.27,
+      "frame_diff": 4.81
+    },
+    {
+      "frame_index": 74,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 2960.0,
+      "sharpness": 781.89,
+      "frame_diff": 5.07
+    },
+    {
+      "frame_index": 75,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 3000.0,
+      "sharpness": 792.62,
+      "frame_diff": 4.94
+    },
+    {
+      "frame_index": 76,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 3040.0,
+      "sharpness": 839.85,
+      "frame_diff": 5.21
+    },
+    {
+      "frame_index": 77,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 3080.0,
+      "sharpness": 806.21,
+      "frame_diff": 4.81
+    },
+    {
+      "frame_index": 78,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 3120.0,
+      "sharpness": 812.31,
+      "frame_diff": 4.83
+    },
+    {
+      "frame_index": 79,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 3160.0,
+      "sharpness": 818.21,
+      "frame_diff": 4.8
+    },
+    {
+      "frame_index": 80,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 3200.0,
+      "sharpness": 842.06,
+      "frame_diff": 4.87
+    },
+    {
+      "frame_index": 81,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 3240.0,
+      "sharpness": 800.28,
+      "frame_diff": 4.86
+    },
+    {
+      "frame_index": 82,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 3280.0,
+      "sharpness": 838.52,
+      "frame_diff": 5.12
+    },
+    {
+      "frame_index": 83,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 3320.0,
+      "sharpness": 822.6,
+      "frame_diff": 5.45
+    },
+    {
+      "frame_index": 84,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 3360.0,
+      "sharpness": 853.33,
+      "frame_diff": 6.03
+    },
+    {
+      "frame_index": 85,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 3400.0,
+      "sharpness": 796.53,
+      "frame_diff": 5.89
+    },
+    {
+      "frame_index": 86,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 3440.0,
+      "sharpness": 819.74,
+      "frame_diff": 7.05
+    },
+    {
+      "frame_index": 87,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 3480.0,
+      "sharpness": 788.75,
+      "frame_diff": 6.59
+    },
+    {
+      "frame_index": 88,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 3520.0,
+      "sharpness": 828.09,
+      "frame_diff": 6.2
+    },
+    {
+      "frame_index": 89,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 3560.0,
+      "sharpness": 813.18,
+      "frame_diff": 5.7
+    },
+    {
+      "frame_index": 90,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 3600.0,
+      "sharpness": 804.27,
+      "frame_diff": 5.6
+    },
+    {
+      "frame_index": 91,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 3640.0,
+      "sharpness": 774.66,
+      "frame_diff": 5.96
+    },
+    {
+      "frame_index": 92,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 3680.0,
+      "sharpness": 838.63,
+      "frame_diff": 6.25
+    },
+    {
+      "frame_index": 93,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 3720.0,
+      "sharpness": 800.91,
+      "frame_diff": 6.71
+    },
+    {
+      "frame_index": 94,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 3760.0,
+      "sharpness": 807.57,
+      "frame_diff": 7.34
+    },
+    {
+      "frame_index": 95,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 3800.0,
+      "sharpness": 823.52,
+      "frame_diff": 7.47
+    },
+    {
+      "frame_index": 96,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 3840.0,
+      "sharpness": 906.21,
+      "frame_diff": 7.44
+    },
+    {
+      "frame_index": 97,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 3880.0,
+      "sharpness": 795.47,
+      "frame_diff": 6.88
+    },
+    {
+      "frame_index": 98,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 3920.0,
+      "sharpness": 813.46,
+      "frame_diff": 6.44
+    },
+    {
+      "frame_index": 99,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 3960.0,
+      "sharpness": 812.15,
+      "frame_diff": 6.33
+    },
+    {
+      "frame_index": 100,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 4000.0,
+      "sharpness": 841.96,
+      "frame_diff": 6.63
+    },
+    {
+      "frame_index": 101,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 4040.0,
+      "sharpness": 778.61,
+      "frame_diff": 6.2
+    },
+    {
+      "frame_index": 102,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 4080.0,
+      "sharpness": 820.42,
+      "frame_diff": 6.18
+    },
+    {
+      "frame_index": 103,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 4120.0,
+      "sharpness": 818.4,
+      "frame_diff": 6.33
+    },
+    {
+      "frame_index": 104,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 4160.0,
+      "sharpness": 836.39,
+      "frame_diff": 6.89
+    },
+    {
+      "frame_index": 105,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 4200.0,
+      "sharpness": 808.09,
+      "frame_diff": 7.35
+    },
+    {
+      "frame_index": 106,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 4240.0,
+      "sharpness": 817.88,
+      "frame_diff": 7.74
+    },
+    {
+      "frame_index": 107,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 4280.0,
+      "sharpness": 829.07,
+      "frame_diff": 7.77
+    },
+    {
+      "frame_index": 108,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 4320.0,
+      "sharpness": 918.27,
+      "frame_diff": 7.15
+    },
+    {
+      "frame_index": 109,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 4360.0,
+      "sharpness": 878.47,
+      "frame_diff": 5.94
+    },
+    {
+      "frame_index": 110,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 4400.0,
+      "sharpness": 823.46,
+      "frame_diff": 5.9
+    },
+    {
+      "frame_index": 111,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 4440.0,
+      "sharpness": 799.47,
+      "frame_diff": 5.53
+    },
+    {
+      "frame_index": 112,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 4480.0,
+      "sharpness": 858.74,
+      "frame_diff": 5.67
+    },
+    {
+      "frame_index": 113,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 4520.0,
+      "sharpness": 819.98,
+      "frame_diff": 5.9
+    },
+    {
+      "frame_index": 114,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 4560.0,
+      "sharpness": 809.49,
+      "frame_diff": 5.7
+    },
+    {
+      "frame_index": 115,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 4600.0,
+      "sharpness": 826.0,
+      "frame_diff": 5.7
+    },
+    {
+      "frame_index": 116,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 4640.0,
+      "sharpness": 864.24,
+      "frame_diff": 5.65
+    },
+    {
+      "frame_index": 117,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 4680.0,
+      "sharpness": 819.25,
+      "frame_diff": 6.25
+    },
+    {
+      "frame_index": 118,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 4720.0,
+      "sharpness": 850.85,
+      "frame_diff": 6.28
+    },
+    {
+      "frame_index": 119,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 4760.0,
+      "sharpness": 847.87,
+      "frame_diff": 6.87
+    },
+    {
+      "frame_index": 120,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 4800.0,
+      "sharpness": 946.14,
+      "frame_diff": 6.68
+    },
+    {
+      "frame_index": 121,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 4840.0,
+      "sharpness": 852.5,
+      "frame_diff": 6.73
+    },
+    {
+      "frame_index": 122,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 4880.0,
+      "sharpness": 889.25,
+      "frame_diff": 6.51
+    },
+    {
+      "frame_index": 123,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 4920.0,
+      "sharpness": 852.26,
+      "frame_diff": 6.56
+    },
+    {
+      "frame_index": 124,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 4960.0,
+      "sharpness": 892.06,
+      "frame_diff": 6.71
+    },
+    {
+      "frame_index": 125,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 5000.0,
+      "sharpness": 865.28,
+      "frame_diff": 6.77
+    },
+    {
+      "frame_index": 126,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 5040.0,
+      "sharpness": 891.0,
+      "frame_diff": 6.82
+    },
+    {
+      "frame_index": 127,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 5080.0,
+      "sharpness": 856.59,
+      "frame_diff": 6.76
+    },
+    {
+      "frame_index": 128,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 5120.0,
+      "sharpness": 910.52,
+      "frame_diff": 6.49
+    },
+    {
+      "frame_index": 129,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 5160.0,
+      "sharpness": 885.55,
+      "frame_diff": 6.74
+    },
+    {
+      "frame_index": 130,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 5200.0,
+      "sharpness": 849.67,
+      "frame_diff": 6.93
+    },
+    {
+      "frame_index": 131,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 5240.0,
+      "sharpness": 811.44,
+      "frame_diff": 6.38
+    },
+    {
+      "frame_index": 132,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 5280.0,
+      "sharpness": 902.38,
+      "frame_diff": 6.4
+    },
+    {
+      "frame_index": 133,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 5320.0,
+      "sharpness": 853.42,
+      "frame_diff": 5.87
+    },
+    {
+      "frame_index": 134,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 5360.0,
+      "sharpness": 844.12,
+      "frame_diff": 6.01
+    },
+    {
+      "frame_index": 135,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 5400.0,
+      "sharpness": 846.93,
+      "frame_diff": 6.55
+    },
+    {
+      "frame_index": 136,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 5440.0,
+      "sharpness": 843.42,
+      "frame_diff": 6.59
+    },
+    {
+      "frame_index": 137,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 5480.0,
+      "sharpness": 786.65,
+      "frame_diff": 5.56
+    },
+    {
+      "frame_index": 138,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 5520.0,
+      "sharpness": 790.86,
+      "frame_diff": 5.17
+    },
+    {
+      "frame_index": 139,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 5560.0,
+      "sharpness": 793.42,
+      "frame_diff": 4.91
+    },
+    {
+      "frame_index": 140,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 5600.0,
+      "sharpness": 766.95,
+      "frame_diff": 5.68
+    },
+    {
+      "frame_index": 141,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 5640.0,
+      "sharpness": 741.8,
+      "frame_diff": 5.21
+    },
+    {
+      "frame_index": 142,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 5680.0,
+      "sharpness": 774.79,
+      "frame_diff": 5.25
+    },
+    {
+      "frame_index": 143,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 5720.0,
+      "sharpness": 792.75,
+      "frame_diff": 5.15
+    },
+    {
+      "frame_index": 144,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 5760.0,
+      "sharpness": 769.21,
+      "frame_diff": 5.98
+    },
+    {
+      "frame_index": 145,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 5800.0,
+      "sharpness": 761.51,
+      "frame_diff": 6.04
+    },
+    {
+      "frame_index": 146,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 5840.0,
+      "sharpness": 762.84,
+      "frame_diff": 5.7
+    },
+    {
+      "frame_index": 147,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 5880.0,
+      "sharpness": 745.45,
+      "frame_diff": 5.23
+    },
+    {
+      "frame_index": 148,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 5920.0,
+      "sharpness": 750.71,
+      "frame_diff": 5.12
+    },
+    {
+      "frame_index": 149,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 5960.0,
+      "sharpness": 762.48,
+      "frame_diff": 5.4
+    },
+    {
+      "frame_index": 150,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 6000.0,
+      "sharpness": 759.83,
+      "frame_diff": 5.86
+    },
+    {
+      "frame_index": 151,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 6040.0,
+      "sharpness": 754.3,
+      "frame_diff": 5.28
+    },
+    {
+      "frame_index": 152,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 6080.0,
+      "sharpness": 821.43,
+      "frame_diff": 5.74
+    },
+    {
+      "frame_index": 153,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 6120.0,
+      "sharpness": 791.09,
+      "frame_diff": 5.43
+    },
+    {
+      "frame_index": 154,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 6160.0,
+      "sharpness": 774.3,
+      "frame_diff": 5.3
+    },
+    {
+      "frame_index": 155,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 6200.0,
+      "sharpness": 783.53,
+      "frame_diff": 5.01
+    },
+    {
+      "frame_index": 156,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 6240.0,
+      "sharpness": 820.8,
+      "frame_diff": 5.38
+    },
+    {
+      "frame_index": 157,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 6280.0,
+      "sharpness": 753.98,
+      "frame_diff": 5.23
+    },
+    {
+      "frame_index": 158,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 6320.0,
+      "sharpness": 759.0,
+      "frame_diff": 5.15
+    },
+    {
+      "frame_index": 159,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 6360.0,
+      "sharpness": 736.49,
+      "frame_diff": 5.04
+    },
+    {
+      "frame_index": 160,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 6400.0,
+      "sharpness": 729.76,
+      "frame_diff": 4.83
+    },
+    {
+      "frame_index": 161,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 6440.0,
+      "sharpness": 677.58,
+      "frame_diff": 4.88
+    },
+    {
+      "frame_index": 162,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 6480.0,
+      "sharpness": 705.17,
+      "frame_diff": 4.6
+    },
+    {
+      "frame_index": 163,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 6520.0,
+      "sharpness": 691.93,
+      "frame_diff": 4.5
+    },
+    {
+      "frame_index": 164,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 6560.0,
+      "sharpness": 685.88,
+      "frame_diff": 4.5
+    },
+    {
+      "frame_index": 165,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 6600.0,
+      "sharpness": 677.46,
+      "frame_diff": 4.79
+    },
+    {
+      "frame_index": 166,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 6640.0,
+      "sharpness": 681.96,
+      "frame_diff": 4.61
+    },
+    {
+      "frame_index": 167,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 6680.0,
+      "sharpness": 661.68,
+      "frame_diff": 4.52
+    },
+    {
+      "frame_index": 168,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 6720.0,
+      "sharpness": 712.54,
+      "frame_diff": 4.89
+    },
+    {
+      "frame_index": 169,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 6760.0,
+      "sharpness": 680.28,
+      "frame_diff": 4.36
+    },
+    {
+      "frame_index": 170,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 6800.0,
+      "sharpness": 636.9,
+      "frame_diff": 4.3
+    },
+    {
+      "frame_index": 171,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 6840.0,
+      "sharpness": 597.92,
+      "frame_diff": 4.22
+    },
+    {
+      "frame_index": 172,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 6880.0,
+      "sharpness": 630.39,
+      "frame_diff": 4.15
+    },
+    {
+      "frame_index": 173,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 6920.0,
+      "sharpness": 600.32,
+      "frame_diff": 4.3
+    },
+    {
+      "frame_index": 174,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 6960.0,
+      "sharpness": 593.41,
+      "frame_diff": 4.07
+    },
+    {
+      "frame_index": 175,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 7000.0,
+      "sharpness": 590.77,
+      "frame_diff": 4.04
+    },
+    {
+      "frame_index": 176,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 7040.0,
+      "sharpness": 596.56,
+      "frame_diff": 3.89
+    },
+    {
+      "frame_index": 177,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 7080.0,
+      "sharpness": 561.02,
+      "frame_diff": 4.22
+    },
+    {
+      "frame_index": 178,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 7120.0,
+      "sharpness": 575.82,
+      "frame_diff": 3.82
+    },
+    {
+      "frame_index": 179,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 7160.0,
+      "sharpness": 567.32,
+      "frame_diff": 3.87
+    },
+    {
+      "frame_index": 180,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 7200.0,
+      "sharpness": 611.61,
+      "frame_diff": 4.33
+    },
+    {
+      "frame_index": 181,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 7240.0,
+      "sharpness": 563.37,
+      "frame_diff": 3.85
+    },
+    {
+      "frame_index": 182,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 7280.0,
+      "sharpness": 577.89,
+      "frame_diff": 4.38
+    },
+    {
+      "frame_index": 183,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 7320.0,
+      "sharpness": 569.94,
+      "frame_diff": 3.7
+    },
+    {
+      "frame_index": 184,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 7360.0,
+      "sharpness": 574.34,
+      "frame_diff": 3.83
+    },
+    {
+      "frame_index": 185,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 7400.0,
+      "sharpness": 568.26,
+      "frame_diff": 3.84
+    },
+    {
+      "frame_index": 186,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 7440.0,
+      "sharpness": 569.41,
+      "frame_diff": 3.58
+    },
+    {
+      "frame_index": 187,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 7480.0,
+      "sharpness": 550.38,
+      "frame_diff": 3.67
+    },
+    {
+      "frame_index": 188,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 7520.0,
+      "sharpness": 579.26,
+      "frame_diff": 3.49
+    },
+    {
+      "frame_index": 189,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 7560.0,
+      "sharpness": 568.04,
+      "frame_diff": 3.79
+    },
+    {
+      "frame_index": 190,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 7600.0,
+      "sharpness": 548.31,
+      "frame_diff": 3.59
+    },
+    {
+      "frame_index": 191,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 7640.0,
+      "sharpness": 526.1,
+      "frame_diff": 3.67
+    },
+    {
+      "frame_index": 192,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 7680.0,
+      "sharpness": 585.31,
+      "frame_diff": 3.91
+    },
+    {
+      "frame_index": 193,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 7720.0,
+      "sharpness": 567.54,
+      "frame_diff": 3.36
+    },
+    {
+      "frame_index": 194,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 7760.0,
+      "sharpness": 556.26,
+      "frame_diff": 3.28
+    },
+    {
+      "frame_index": 195,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 7800.0,
+      "sharpness": 564.17,
+      "frame_diff": 3.21
+    },
+    {
+      "frame_index": 196,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 7840.0,
+      "sharpness": 576.53,
+      "frame_diff": 3.14
+    },
+    {
+      "frame_index": 197,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 7880.0,
+      "sharpness": 543.31,
+      "frame_diff": 3.42
+    },
+    {
+      "frame_index": 198,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 7920.0,
+      "sharpness": 552.61,
+      "frame_diff": 3.18
+    },
+    {
+      "frame_index": 199,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 7960.0,
+      "sharpness": 545.78,
+      "frame_diff": 3.18
+    },
+    {
+      "frame_index": 200,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 8000.0,
+      "sharpness": 532.27,
+      "frame_diff": 3.22
+    },
+    {
+      "frame_index": 201,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 8040.0,
+      "sharpness": 498.23,
+      "frame_diff": 3.38
+    },
+    {
+      "frame_index": 202,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 8080.0,
+      "sharpness": 526.93,
+      "frame_diff": 3.18
+    },
+    {
+      "frame_index": 203,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 8120.0,
+      "sharpness": 527.21,
+      "frame_diff": 3.16
+    },
+    {
+      "frame_index": 204,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 8160.0,
+      "sharpness": 547.86,
+      "frame_diff": 3.68
+    },
+    {
+      "frame_index": 205,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 8200.0,
+      "sharpness": 541.66,
+      "frame_diff": 3.22
+    },
+    {
+      "frame_index": 206,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 8240.0,
+      "sharpness": 529.05,
+      "frame_diff": 3.19
+    },
+    {
+      "frame_index": 207,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 8280.0,
+      "sharpness": 502.01,
+      "frame_diff": 3.19
+    },
+    {
+      "frame_index": 208,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 8320.0,
+      "sharpness": 525.55,
+      "frame_diff": 3.11
+    },
+    {
+      "frame_index": 209,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 8360.0,
+      "sharpness": 520.34,
+      "frame_diff": 3.25
+    },
+    {
+      "frame_index": 210,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 8400.0,
+      "sharpness": 482.23,
+      "frame_diff": 3.18
+    },
+    {
+      "frame_index": 211,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 8440.0,
+      "sharpness": 458.83,
+      "frame_diff": 3.2
+    },
+    {
+      "frame_index": 212,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 8480.0,
+      "sharpness": 492.41,
+      "frame_diff": 2.99
+    },
+    {
+      "frame_index": 213,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 8520.0,
+      "sharpness": 477.12,
+      "frame_diff": 3.22
+    },
+    {
+      "frame_index": 214,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 8560.0,
+      "sharpness": 467.38,
+      "frame_diff": 3.12
+    },
+    {
+      "frame_index": 215,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 8600.0,
+      "sharpness": 474.59,
+      "frame_diff": 3.13
+    },
+    {
+      "frame_index": 216,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 8640.0,
+      "sharpness": 510.03,
+      "frame_diff": 3.6
+    },
+    {
+      "frame_index": 217,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 8680.0,
+      "sharpness": 469.85,
+      "frame_diff": 3.29
+    },
+    {
+      "frame_index": 218,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 8720.0,
+      "sharpness": 472.48,
+      "frame_diff": 3.18
+    },
+    {
+      "frame_index": 219,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 8760.0,
+      "sharpness": 464.95,
+      "frame_diff": 3.11
+    },
+    {
+      "frame_index": 220,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 8800.0,
+      "sharpness": 493.76,
+      "frame_diff": 3.06
+    },
+    {
+      "frame_index": 221,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 8840.0,
+      "sharpness": 462.24,
+      "frame_diff": 3.21
+    },
+    {
+      "frame_index": 222,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 8880.0,
+      "sharpness": 483.52,
+      "frame_diff": 3.03
+    },
+    {
+      "frame_index": 223,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 8920.0,
+      "sharpness": 476.25,
+      "frame_diff": 3.03
+    },
+    {
+      "frame_index": 224,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 8960.0,
+      "sharpness": 479.09,
+      "frame_diff": 3.06
+    },
+    {
+      "frame_index": 225,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 9000.0,
+      "sharpness": 482.8,
+      "frame_diff": 3.14
+    },
+    {
+      "frame_index": 226,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 9040.0,
+      "sharpness": 484.84,
+      "frame_diff": 3.12
+    },
+    {
+      "frame_index": 227,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 9080.0,
+      "sharpness": 471.77,
+      "frame_diff": 3.01
+    },
+    {
+      "frame_index": 228,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 9120.0,
+      "sharpness": 523.27,
+      "frame_diff": 3.75
+    },
+    {
+      "frame_index": 229,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 9160.0,
+      "sharpness": 516.9,
+      "frame_diff": 3.04
+    },
+    {
+      "frame_index": 230,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 9200.0,
+      "sharpness": 492.03,
+      "frame_diff": 3.23
+    },
+    {
+      "frame_index": 231,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 9240.0,
+      "sharpness": 461.06,
+      "frame_diff": 3.2
+    },
+    {
+      "frame_index": 232,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 9280.0,
+      "sharpness": 483.88,
+      "frame_diff": 3.16
+    },
+    {
+      "frame_index": 233,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 9320.0,
+      "sharpness": 465.02,
+      "frame_diff": 3.17
+    },
+    {
+      "frame_index": 234,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 9360.0,
+      "sharpness": 454.47,
+      "frame_diff": 3.02
+    },
+    {
+      "frame_index": 235,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 9400.0,
+      "sharpness": 462.43,
+      "frame_diff": 2.99
+    },
+    {
+      "frame_index": 236,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 9440.0,
+      "sharpness": 469.62,
+      "frame_diff": 2.9
+    },
+    {
+      "frame_index": 237,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 9480.0,
+      "sharpness": 447.63,
+      "frame_diff": 3.07
+    },
+    {
+      "frame_index": 238,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 9520.0,
+      "sharpness": 462.51,
+      "frame_diff": 2.94
+    },
+    {
+      "frame_index": 239,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 9560.0,
+      "sharpness": 460.97,
+      "frame_diff": 2.95
+    },
+    {
+      "frame_index": 240,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 9600.0,
+      "sharpness": 466.72,
+      "frame_diff": 3.63
+    },
+    {
+      "frame_index": 241,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 9640.0,
+      "sharpness": 436.88,
+      "frame_diff": 2.99
+    },
+    {
+      "frame_index": 242,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 9680.0,
+      "sharpness": 458.89,
+      "frame_diff": 2.97
+    },
+    {
+      "frame_index": 243,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 9720.0,
+      "sharpness": 453.22,
+      "frame_diff": 2.96
+    },
+    {
+      "frame_index": 244,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 9760.0,
+      "sharpness": 446.44,
+      "frame_diff": 3.0
+    },
+    {
+      "frame_index": 245,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 9800.0,
+      "sharpness": 452.0,
+      "frame_diff": 3.2
+    },
+    {
+      "frame_index": 246,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 9840.0,
+      "sharpness": 455.66,
+      "frame_diff": 3.0
+    },
+    {
+      "frame_index": 247,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 9880.0,
+      "sharpness": 436.18,
+      "frame_diff": 3.13
+    },
+    {
+      "frame_index": 248,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 9920.0,
+      "sharpness": 454.61,
+      "frame_diff": 3.06
+    },
+    {
+      "frame_index": 249,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 9960.0,
+      "sharpness": 441.91,
+      "frame_diff": 3.25
+    },
+    {
+      "frame_index": 250,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 10000.0,
+      "sharpness": 437.4,
+      "frame_diff": 3.35
+    },
+    {
+      "frame_index": 251,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 10040.0,
+      "sharpness": 407.85,
+      "frame_diff": 3.27
+    },
+    {
+      "frame_index": 252,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 10080.0,
+      "sharpness": 474.0,
+      "frame_diff": 3.78
+    },
+    {
+      "frame_index": 253,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 10120.0,
+      "sharpness": 450.5,
+      "frame_diff": 3.33
+    },
+    {
+      "frame_index": 254,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 10160.0,
+      "sharpness": 447.57,
+      "frame_diff": 3.43
+    },
+    {
+      "frame_index": 255,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 10200.0,
+      "sharpness": 440.07,
+      "frame_diff": 3.31
+    },
+    {
+      "frame_index": 256,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 10240.0,
+      "sharpness": 442.06,
+      "frame_diff": 3.24
+    },
+    {
+      "frame_index": 257,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 10280.0,
+      "sharpness": 423.37,
+      "frame_diff": 3.23
+    },
+    {
+      "frame_index": 258,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 10320.0,
+      "sharpness": 450.09,
+      "frame_diff": 3.08
+    },
+    {
+      "frame_index": 259,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 10360.0,
+      "sharpness": 446.53,
+      "frame_diff": 3.09
+    },
+    {
+      "frame_index": 260,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 10400.0,
+      "sharpness": 440.14,
+      "frame_diff": 3.15
+    },
+    {
+      "frame_index": 261,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 10440.0,
+      "sharpness": 416.89,
+      "frame_diff": 3.21
+    },
+    {
+      "frame_index": 262,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 10480.0,
+      "sharpness": 448.96,
+      "frame_diff": 3.13
+    },
+    {
+      "frame_index": 263,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 10520.0,
+      "sharpness": 437.38,
+      "frame_diff": 3.19
+    },
+    {
+      "frame_index": 264,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 10560.0,
+      "sharpness": 444.8,
+      "frame_diff": 3.96
+    },
+    {
+      "frame_index": 265,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 10600.0,
+      "sharpness": 435.02,
+      "frame_diff": 3.61
+    },
+    {
+      "frame_index": 266,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 10640.0,
+      "sharpness": 444.15,
+      "frame_diff": 3.66
+    },
+    {
+      "frame_index": 267,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 10680.0,
+      "sharpness": 416.98,
+      "frame_diff": 3.4
+    },
+    {
+      "frame_index": 268,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 10720.0,
+      "sharpness": 434.68,
+      "frame_diff": 3.32
+    },
+    {
+      "frame_index": 269,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 10760.0,
+      "sharpness": 431.79,
+      "frame_diff": 3.94
+    },
+    {
+      "frame_index": 270,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 10800.0,
+      "sharpness": 429.73,
+      "frame_diff": 3.49
+    },
+    {
+      "frame_index": 271,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 10840.0,
+      "sharpness": 394.09,
+      "frame_diff": 3.55
+    },
+    {
+      "frame_index": 272,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 10880.0,
+      "sharpness": 418.76,
+      "frame_diff": 3.45
+    },
+    {
+      "frame_index": 273,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 10920.0,
+      "sharpness": 414.0,
+      "frame_diff": 3.43
+    },
+    {
+      "frame_index": 274,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 10960.0,
+      "sharpness": 416.82,
+      "frame_diff": 3.44
+    },
+    {
+      "frame_index": 275,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 11000.0,
+      "sharpness": 412.89,
+      "frame_diff": 3.45
+    },
+    {
+      "frame_index": 276,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 11040.0,
+      "sharpness": 437.8,
+      "frame_diff": 3.82
+    },
+    {
+      "frame_index": 277,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 11080.0,
+      "sharpness": 409.06,
+      "frame_diff": 3.53
+    },
+    {
+      "frame_index": 278,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 11120.0,
+      "sharpness": 434.74,
+      "frame_diff": 3.53
+    },
+    {
+      "frame_index": 279,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 11160.0,
+      "sharpness": 414.7,
+      "frame_diff": 3.56
+    },
+    {
+      "frame_index": 280,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 11200.0,
+      "sharpness": 415.65,
+      "frame_diff": 3.61
+    },
+    {
+      "frame_index": 281,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 11240.0,
+      "sharpness": 387.96,
+      "frame_diff": 3.6
+    },
+    {
+      "frame_index": 282,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 11280.0,
+      "sharpness": 425.99,
+      "frame_diff": 3.67
+    },
+    {
+      "frame_index": 283,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 11320.0,
+      "sharpness": 421.73,
+      "frame_diff": 3.61
+    },
+    {
+      "frame_index": 284,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 11360.0,
+      "sharpness": 415.66,
+      "frame_diff": 3.6
+    },
+    {
+      "frame_index": 285,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 11400.0,
+      "sharpness": 427.8,
+      "frame_diff": 3.6
+    },
+    {
+      "frame_index": 286,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 11440.0,
+      "sharpness": 437.57,
+      "frame_diff": 3.52
+    },
+    {
+      "frame_index": 287,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 11480.0,
+      "sharpness": 410.99,
+      "frame_diff": 3.62
+    },
+    {
+      "frame_index": 288,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 11520.0,
+      "sharpness": 441.54,
+      "frame_diff": 4.02
+    },
+    {
+      "frame_index": 289,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 11560.0,
+      "sharpness": 426.47,
+      "frame_diff": 3.52
+    },
+    {
+      "frame_index": 290,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 11600.0,
+      "sharpness": 420.46,
+      "frame_diff": 3.56
+    },
+    {
+      "frame_index": 291,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 11640.0,
+      "sharpness": 394.82,
+      "frame_diff": 3.66
+    },
+    {
+      "frame_index": 292,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 11680.0,
+      "sharpness": 417.6,
+      "frame_diff": 3.59
+    },
+    {
+      "frame_index": 293,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 11720.0,
+      "sharpness": 412.07,
+      "frame_diff": 3.68
+    },
+    {
+      "frame_index": 294,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 11760.0,
+      "sharpness": 420.0,
+      "frame_diff": 3.68
+    },
+    {
+      "frame_index": 295,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 11800.0,
+      "sharpness": 417.48,
+      "frame_diff": 3.64
+    },
+    {
+      "frame_index": 296,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 11840.0,
+      "sharpness": 417.34,
+      "frame_diff": 3.52
+    },
+    {
+      "frame_index": 297,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 11880.0,
+      "sharpness": 399.74,
+      "frame_diff": 3.49
+    },
+    {
+      "frame_index": 298,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 11920.0,
+      "sharpness": 424.37,
+      "frame_diff": 3.44
+    },
+    {
+      "frame_index": 299,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 11960.0,
+      "sharpness": 421.72,
+      "frame_diff": 3.48
+    },
+    {
+      "frame_index": 300,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 12000.0,
+      "sharpness": 425.79,
+      "frame_diff": 4.01
+    },
+    {
+      "frame_index": 301,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 12040.0,
+      "sharpness": 392.89,
+      "frame_diff": 3.42
+    },
+    {
+      "frame_index": 302,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 12080.0,
+      "sharpness": 420.61,
+      "frame_diff": 3.46
+    },
+    {
+      "frame_index": 303,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 12120.0,
+      "sharpness": 417.61,
+      "frame_diff": 3.41
+    },
+    {
+      "frame_index": 304,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 12160.0,
+      "sharpness": 424.2,
+      "frame_diff": 3.63
+    },
+    {
+      "frame_index": 305,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 12200.0,
+      "sharpness": 429.3,
+      "frame_diff": 3.44
+    },
+    {
+      "frame_index": 306,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 12240.0,
+      "sharpness": 431.32,
+      "frame_diff": 3.34
+    },
+    {
+      "frame_index": 307,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 12280.0,
+      "sharpness": 413.77,
+      "frame_diff": 3.42
+    },
+    {
+      "frame_index": 308,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 12320.0,
+      "sharpness": 437.57,
+      "frame_diff": 3.38
+    },
+    {
+      "frame_index": 309,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 12360.0,
+      "sharpness": 436.51,
+      "frame_diff": 3.39
+    },
+    {
+      "frame_index": 310,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 12400.0,
+      "sharpness": 412.33,
+      "frame_diff": 3.36
+    },
+    {
+      "frame_index": 311,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 12440.0,
+      "sharpness": 389.65,
+      "frame_diff": 3.46
+    },
+    {
+      "frame_index": 312,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 12480.0,
+      "sharpness": 431.76,
+      "frame_diff": 3.93
+    },
+    {
+      "frame_index": 313,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 12520.0,
+      "sharpness": 420.61,
+      "frame_diff": 3.35
+    },
+    {
+      "frame_index": 314,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 12560.0,
+      "sharpness": 422.19,
+      "frame_diff": 3.52
+    },
+    {
+      "frame_index": 315,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 12600.0,
+      "sharpness": 426.69,
+      "frame_diff": 3.5
+    },
+    {
+      "frame_index": 316,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 12640.0,
+      "sharpness": 419.01,
+      "frame_diff": 3.35
+    },
+    {
+      "frame_index": 317,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 12680.0,
+      "sharpness": 400.7,
+      "frame_diff": 3.34
+    },
+    {
+      "frame_index": 318,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 12720.0,
+      "sharpness": 420.14,
+      "frame_diff": 3.33
+    },
+    {
+      "frame_index": 319,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 12760.0,
+      "sharpness": 417.48,
+      "frame_diff": 3.36
+    },
+    {
+      "frame_index": 320,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 12800.0,
+      "sharpness": 416.69,
+      "frame_diff": 3.41
+    },
+    {
+      "frame_index": 321,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 12840.0,
+      "sharpness": 386.62,
+      "frame_diff": 3.63
+    },
+    {
+      "frame_index": 322,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 12880.0,
+      "sharpness": 406.95,
+      "frame_diff": 3.49
+    },
+    {
+      "frame_index": 323,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 12920.0,
+      "sharpness": 400.33,
+      "frame_diff": 3.4
+    },
+    {
+      "frame_index": 324,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 12960.0,
+      "sharpness": 425.26,
+      "frame_diff": 3.9
+    },
+    {
+      "frame_index": 325,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 13000.0,
+      "sharpness": 423.93,
+      "frame_diff": 3.26
+    },
+    {
+      "frame_index": 326,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 13040.0,
+      "sharpness": 414.48,
+      "frame_diff": 3.22
+    },
+    {
+      "frame_index": 327,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 13080.0,
+      "sharpness": 388.15,
+      "frame_diff": 3.19
+    },
+    {
+      "frame_index": 328,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 13120.0,
+      "sharpness": 411.28,
+      "frame_diff": 3.24
+    },
+    {
+      "frame_index": 329,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 13160.0,
+      "sharpness": 397.65,
+      "frame_diff": 3.26
+    },
+    {
+      "frame_index": 330,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 13200.0,
+      "sharpness": 388.45,
+      "frame_diff": 3.14
+    },
+    {
+      "frame_index": 331,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 13240.0,
+      "sharpness": 368.92,
+      "frame_diff": 3.24
+    },
+    {
+      "frame_index": 332,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 13280.0,
+      "sharpness": 399.86,
+      "frame_diff": 3.16
+    },
+    {
+      "frame_index": 333,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 13320.0,
+      "sharpness": 392.04,
+      "frame_diff": 3.03
+    },
+    {
+      "frame_index": 334,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 13360.0,
+      "sharpness": 387.27,
+      "frame_diff": 3.28
+    },
+    {
+      "frame_index": 335,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 13400.0,
+      "sharpness": 395.47,
+      "frame_diff": 3.22
+    },
+    {
+      "frame_index": 336,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 13440.0,
+      "sharpness": 423.53,
+      "frame_diff": 3.83
+    },
+    {
+      "frame_index": 337,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 13480.0,
+      "sharpness": 395.15,
+      "frame_diff": 3.1
+    },
+    {
+      "frame_index": 338,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 13520.0,
+      "sharpness": 407.8,
+      "frame_diff": 3.13
+    },
+    {
+      "frame_index": 339,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 13560.0,
+      "sharpness": 399.98,
+      "frame_diff": 3.16
+    },
+    {
+      "frame_index": 340,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 13600.0,
+      "sharpness": 393.05,
+      "frame_diff": 3.15
+    },
+    {
+      "frame_index": 341,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 13640.0,
+      "sharpness": 364.0,
+      "frame_diff": 3.26
+    },
+    {
+      "frame_index": 342,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 13680.0,
+      "sharpness": 383.74,
+      "frame_diff": 3.21
+    },
+    {
+      "frame_index": 343,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 13720.0,
+      "sharpness": 376.85,
+      "frame_diff": 3.17
+    },
+    {
+      "frame_index": 344,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 13760.0,
+      "sharpness": 379.43,
+      "frame_diff": 3.17
+    },
+    {
+      "frame_index": 345,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 13800.0,
+      "sharpness": 377.29,
+      "frame_diff": 3.19
+    },
+    {
+      "frame_index": 346,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 13840.0,
+      "sharpness": 384.04,
+      "frame_diff": 3.19
+    },
+    {
+      "frame_index": 347,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 13880.0,
+      "sharpness": 373.65,
+      "frame_diff": 3.64
+    },
+    {
+      "frame_index": 348,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 13920.0,
+      "sharpness": 424.18,
+      "frame_diff": 4.27
+    },
+    {
+      "frame_index": 349,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 13960.0,
+      "sharpness": 409.13,
+      "frame_diff": 3.76
+    },
+    {
+      "frame_index": 350,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 14000.0,
+      "sharpness": 394.56,
+      "frame_diff": 3.74
+    },
+    {
+      "frame_index": 351,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 14040.0,
+      "sharpness": 367.71,
+      "frame_diff": 3.51
+    },
+    {
+      "frame_index": 352,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 14080.0,
+      "sharpness": 397.53,
+      "frame_diff": 3.51
+    },
+    {
+      "frame_index": 353,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 14120.0,
+      "sharpness": 387.55,
+      "frame_diff": 3.65
+    },
+    {
+      "frame_index": 354,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 14160.0,
+      "sharpness": 387.38,
+      "frame_diff": 3.98
+    },
+    {
+      "frame_index": 355,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 14200.0,
+      "sharpness": 399.4,
+      "frame_diff": 4.52
+    },
+    {
+      "frame_index": 356,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 14240.0,
+      "sharpness": 421.72,
+      "frame_diff": 4.52
+    },
+    {
+      "frame_index": 357,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 14280.0,
+      "sharpness": 409.75,
+      "frame_diff": 4.7
+    },
+    {
+      "frame_index": 358,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 14320.0,
+      "sharpness": 422.0,
+      "frame_diff": 5.05
+    },
+    {
+      "frame_index": 359,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 14360.0,
+      "sharpness": 419.68,
+      "frame_diff": 3.76
+    },
+    {
+      "frame_index": 360,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 14400.0,
+      "sharpness": 449.18,
+      "frame_diff": 4.3
+    },
+    {
+      "frame_index": 361,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 14440.0,
+      "sharpness": 421.48,
+      "frame_diff": 4.89
+    },
+    {
+      "frame_index": 362,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 14480.0,
+      "sharpness": 440.75,
+      "frame_diff": 4.26
+    },
+    {
+      "frame_index": 363,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 14520.0,
+      "sharpness": 421.87,
+      "frame_diff": 4.58
+    },
+    {
+      "frame_index": 364,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 14560.0,
+      "sharpness": 412.09,
+      "frame_diff": 4.27
+    },
+    {
+      "frame_index": 365,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 14600.0,
+      "sharpness": 409.99,
+      "frame_diff": 3.81
+    },
+    {
+      "frame_index": 366,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 14640.0,
+      "sharpness": 412.89,
+      "frame_diff": 3.85
+    },
+    {
+      "frame_index": 367,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 14680.0,
+      "sharpness": 397.91,
+      "frame_diff": 4.1
+    },
+    {
+      "frame_index": 368,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 14720.0,
+      "sharpness": 423.73,
+      "frame_diff": 3.97
+    },
+    {
+      "frame_index": 369,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 14760.0,
+      "sharpness": 422.53,
+      "frame_diff": 4.25
+    },
+    {
+      "frame_index": 370,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 14800.0,
+      "sharpness": 403.48,
+      "frame_diff": 4.02
+    },
+    {
+      "frame_index": 371,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 14840.0,
+      "sharpness": 390.86,
+      "frame_diff": 4.11
+    },
+    {
+      "frame_index": 372,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 14880.0,
+      "sharpness": 417.3,
+      "frame_diff": 4.5
+    },
+    {
+      "frame_index": 373,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 14920.0,
+      "sharpness": 400.73,
+      "frame_diff": 3.65
+    },
+    {
+      "frame_index": 374,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 14960.0,
+      "sharpness": 405.24,
+      "frame_diff": 4.54
+    },
+    {
+      "frame_index": 375,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 15000.0,
+      "sharpness": 424.03,
+      "frame_diff": 9.33
+    },
+    {
+      "frame_index": 376,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 15040.0,
+      "sharpness": 444.53,
+      "frame_diff": 5.0
+    },
+    {
+      "frame_index": 377,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 15080.0,
+      "sharpness": 422.97,
+      "frame_diff": 5.01
+    },
+    {
+      "frame_index": 378,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 15120.0,
+      "sharpness": 440.19,
+      "frame_diff": 5.0
+    },
+    {
+      "frame_index": 379,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 15160.0,
+      "sharpness": 450.7,
+      "frame_diff": 4.81
+    },
+    {
+      "frame_index": 380,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 15200.0,
+      "sharpness": 469.99,
+      "frame_diff": 5.07
+    },
+    {
+      "frame_index": 381,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 15240.0,
+      "sharpness": 443.07,
+      "frame_diff": 6.26
+    },
+    {
+      "frame_index": 382,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 15280.0,
+      "sharpness": 445.8,
+      "frame_diff": 5.91
+    },
+    {
+      "frame_index": 383,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 15320.0,
+      "sharpness": 421.57,
+      "frame_diff": 4.4
+    },
+    {
+      "frame_index": 384,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 15360.0,
+      "sharpness": 425.22,
+      "frame_diff": 4.57
+    },
+    {
+      "frame_index": 385,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 15400.0,
+      "sharpness": 414.98,
+      "frame_diff": 3.59
+    },
+    {
+      "frame_index": 386,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 15440.0,
+      "sharpness": 423.85,
+      "frame_diff": 3.58
+    },
+    {
+      "frame_index": 387,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 15480.0,
+      "sharpness": 400.99,
+      "frame_diff": 4.07
+    },
+    {
+      "frame_index": 388,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 15520.0,
+      "sharpness": 406.39,
+      "frame_diff": 3.88
+    },
+    {
+      "frame_index": 389,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 15560.0,
+      "sharpness": 405.35,
+      "frame_diff": 3.85
+    },
+    {
+      "frame_index": 390,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 15600.0,
+      "sharpness": 408.98,
+      "frame_diff": 4.1
+    },
+    {
+      "frame_index": 391,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 15640.0,
+      "sharpness": 395.82,
+      "frame_diff": 3.87
+    },
+    {
+      "frame_index": 392,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 15680.0,
+      "sharpness": 410.05,
+      "frame_diff": 3.88
+    },
+    {
+      "frame_index": 393,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 15720.0,
+      "sharpness": 407.36,
+      "frame_diff": 3.7
+    },
+    {
+      "frame_index": 394,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 15760.0,
+      "sharpness": 408.82,
+      "frame_diff": 3.77
+    },
+    {
+      "frame_index": 395,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 15800.0,
+      "sharpness": 415.23,
+      "frame_diff": 4.56
+    },
+    {
+      "frame_index": 396,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 15840.0,
+      "sharpness": 445.6,
+      "frame_diff": 4.13
+    },
+    {
+      "frame_index": 397,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 15880.0,
+      "sharpness": 430.37,
+      "frame_diff": 3.58
+    },
+    {
+      "frame_index": 398,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 15920.0,
+      "sharpness": 444.95,
+      "frame_diff": 3.48
+    },
+    {
+      "frame_index": 399,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 15960.0,
+      "sharpness": 432.98,
+      "frame_diff": 3.76
+    },
+    {
+      "frame_index": 400,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 16000.0,
+      "sharpness": 418.66,
+      "frame_diff": 3.61
+    },
+    {
+      "frame_index": 401,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 16040.0,
+      "sharpness": 402.34,
+      "frame_diff": 3.72
+    },
+    {
+      "frame_index": 402,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 16080.0,
+      "sharpness": 430.2,
+      "frame_diff": 3.61
+    },
+    {
+      "frame_index": 403,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 16120.0,
+      "sharpness": 420.04,
+      "frame_diff": 3.88
+    },
+    {
+      "frame_index": 404,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 16160.0,
+      "sharpness": 417.28,
+      "frame_diff": 4.09
+    },
+    {
+      "frame_index": 405,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 16200.0,
+      "sharpness": 407.11,
+      "frame_diff": 4.42
+    },
+    {
+      "frame_index": 406,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 16240.0,
+      "sharpness": 410.48,
+      "frame_diff": 4.14
+    },
+    {
+      "frame_index": 407,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 16280.0,
+      "sharpness": 399.73,
+      "frame_diff": 4.69
+    },
+    {
+      "frame_index": 408,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 16320.0,
+      "sharpness": 424.09,
+      "frame_diff": 3.92
+    },
+    {
+      "frame_index": 409,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 16360.0,
+      "sharpness": 407.52,
+      "frame_diff": 3.68
+    },
+    {
+      "frame_index": 410,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 16400.0,
+      "sharpness": 394.91,
+      "frame_diff": 3.23
+    },
+    {
+      "frame_index": 411,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 16440.0,
+      "sharpness": 379.16,
+      "frame_diff": 3.25
+    },
+    {
+      "frame_index": 412,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 16480.0,
+      "sharpness": 399.5,
+      "frame_diff": 3.32
+    },
+    {
+      "frame_index": 413,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 16520.0,
+      "sharpness": 393.69,
+      "frame_diff": 3.27
+    },
+    {
+      "frame_index": 414,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 16560.0,
+      "sharpness": 384.65,
+      "frame_diff": 3.48
+    },
+    {
+      "frame_index": 415,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 16600.0,
+      "sharpness": 387.31,
+      "frame_diff": 3.5
+    },
+    {
+      "frame_index": 416,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 16640.0,
+      "sharpness": 396.7,
+      "frame_diff": 3.44
+    },
+    {
+      "frame_index": 417,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 16680.0,
+      "sharpness": 383.8,
+      "frame_diff": 3.29
+    },
+    {
+      "frame_index": 418,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 16720.0,
+      "sharpness": 386.92,
+      "frame_diff": 3.19
+    },
+    {
+      "frame_index": 419,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 16760.0,
+      "sharpness": 383.14,
+      "frame_diff": 3.27
+    },
+    {
+      "frame_index": 420,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 16800.0,
+      "sharpness": 406.93,
+      "frame_diff": 3.73
+    },
+    {
+      "frame_index": 421,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 16840.0,
+      "sharpness": 384.72,
+      "frame_diff": 3.17
+    },
+    {
+      "frame_index": 422,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 16880.0,
+      "sharpness": 386.51,
+      "frame_diff": 3.19
+    },
+    {
+      "frame_index": 423,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 16920.0,
+      "sharpness": 382.88,
+      "frame_diff": 3.07
+    },
+    {
+      "frame_index": 424,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 16960.0,
+      "sharpness": 382.03,
+      "frame_diff": 3.1
+    },
+    {
+      "frame_index": 425,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 17000.0,
+      "sharpness": 384.93,
+      "frame_diff": 3.12
+    },
+    {
+      "frame_index": 426,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 17040.0,
+      "sharpness": 386.66,
+      "frame_diff": 3.03
+    },
+    {
+      "frame_index": 427,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 17080.0,
+      "sharpness": 372.65,
+      "frame_diff": 3.08
+    },
+    {
+      "frame_index": 428,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 17120.0,
+      "sharpness": 386.59,
+      "frame_diff": 3.08
+    },
+    {
+      "frame_index": 429,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 17160.0,
+      "sharpness": 383.56,
+      "frame_diff": 3.08
+    },
+    {
+      "frame_index": 430,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 17200.0,
+      "sharpness": 378.85,
+      "frame_diff": 3.01
+    },
+    {
+      "frame_index": 431,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 17240.0,
+      "sharpness": 363.7,
+      "frame_diff": 3.14
+    },
+    {
+      "frame_index": 432,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 17280.0,
+      "sharpness": 407.97,
+      "frame_diff": 3.68
+    },
+    {
+      "frame_index": 433,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 17320.0,
+      "sharpness": 400.37,
+      "frame_diff": 3.15
+    },
+    {
+      "frame_index": 434,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 17360.0,
+      "sharpness": 383.75,
+      "frame_diff": 3.24
+    },
+    {
+      "frame_index": 435,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 17400.0,
+      "sharpness": 382.28,
+      "frame_diff": 3.1
+    },
+    {
+      "frame_index": 436,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 17440.0,
+      "sharpness": 392.75,
+      "frame_diff": 3.04
+    },
+    {
+      "frame_index": 437,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 17480.0,
+      "sharpness": 378.79,
+      "frame_diff": 3.06
+    },
+    {
+      "frame_index": 438,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 17520.0,
+      "sharpness": 388.55,
+      "frame_diff": 3.29
+    },
+    {
+      "frame_index": 439,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 17560.0,
+      "sharpness": 383.59,
+      "frame_diff": 3.11
+    },
+    {
+      "frame_index": 440,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 17600.0,
+      "sharpness": 391.01,
+      "frame_diff": 3.86
+    },
+    {
+      "frame_index": 441,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 17640.0,
+      "sharpness": 366.81,
+      "frame_diff": 3.61
+    },
+    {
+      "frame_index": 442,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 17680.0,
+      "sharpness": 392.09,
+      "frame_diff": 4.66
+    },
+    {
+      "frame_index": 443,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 17720.0,
+      "sharpness": 386.46,
+      "frame_diff": 3.61
+    },
+    {
+      "frame_index": 444,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 17760.0,
+      "sharpness": 424.68,
+      "frame_diff": 4.16
+    },
+    {
+      "frame_index": 445,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 17800.0,
+      "sharpness": 419.34,
+      "frame_diff": 4.68
+    },
+    {
+      "frame_index": 446,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 17840.0,
+      "sharpness": 416.08,
+      "frame_diff": 4.01
+    },
+    {
+      "frame_index": 447,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 17880.0,
+      "sharpness": 402.37,
+      "frame_diff": 3.5
+    },
+    {
+      "frame_index": 448,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 17920.0,
+      "sharpness": 415.57,
+      "frame_diff": 4.09
+    },
+    {
+      "frame_index": 449,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 17960.0,
+      "sharpness": 408.51,
+      "frame_diff": 3.3
+    },
+    {
+      "frame_index": 450,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 18000.0,
+      "sharpness": 407.29,
+      "frame_diff": 3.46
+    },
+    {
+      "frame_index": 451,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 18040.0,
+      "sharpness": 391.78,
+      "frame_diff": 3.39
+    },
+    {
+      "frame_index": 452,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 18080.0,
+      "sharpness": 410.53,
+      "frame_diff": 3.36
+    },
+    {
+      "frame_index": 453,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 18120.0,
+      "sharpness": 406.22,
+      "frame_diff": 4.31
+    },
+    {
+      "frame_index": 454,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 18160.0,
+      "sharpness": 393.67,
+      "frame_diff": 3.52
+    },
+    {
+      "frame_index": 455,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 18200.0,
+      "sharpness": 403.14,
+      "frame_diff": 3.46
+    },
+    {
+      "frame_index": 456,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 18240.0,
+      "sharpness": 452.9,
+      "frame_diff": 4.16
+    },
+    {
+      "frame_index": 457,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 18280.0,
+      "sharpness": 414.41,
+      "frame_diff": 3.84
+    },
+    {
+      "frame_index": 458,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 18320.0,
+      "sharpness": 419.55,
+      "frame_diff": 4.25
+    },
+    {
+      "frame_index": 459,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 18360.0,
+      "sharpness": 406.65,
+      "frame_diff": 3.84
+    },
+    {
+      "frame_index": 460,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 18400.0,
+      "sharpness": 411.79,
+      "frame_diff": 3.47
+    },
+    {
+      "frame_index": 461,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 18440.0,
+      "sharpness": 385.72,
+      "frame_diff": 3.7
+    },
+    {
+      "frame_index": 462,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 18480.0,
+      "sharpness": 403.45,
+      "frame_diff": 3.41
+    },
+    {
+      "frame_index": 463,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 18520.0,
+      "sharpness": 397.33,
+      "frame_diff": 3.67
+    },
+    {
+      "frame_index": 464,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 18560.0,
+      "sharpness": 396.81,
+      "frame_diff": 3.62
+    },
+    {
+      "frame_index": 465,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 18600.0,
+      "sharpness": 392.57,
+      "frame_diff": 3.6
+    },
+    {
+      "frame_index": 466,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 18640.0,
+      "sharpness": 403.02,
+      "frame_diff": 3.79
+    },
+    {
+      "frame_index": 467,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 18680.0,
+      "sharpness": 390.24,
+      "frame_diff": 3.62
+    },
+    {
+      "frame_index": 468,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 18720.0,
+      "sharpness": 429.27,
+      "frame_diff": 4.06
+    },
+    {
+      "frame_index": 469,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 18760.0,
+      "sharpness": 409.02,
+      "frame_diff": 3.59
+    },
+    {
+      "frame_index": 470,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 18800.0,
+      "sharpness": 411.54,
+      "frame_diff": 3.49
+    },
+    {
+      "frame_index": 471,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 18840.0,
+      "sharpness": 386.82,
+      "frame_diff": 3.6
+    },
+    {
+      "frame_index": 472,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 18880.0,
+      "sharpness": 405.57,
+      "frame_diff": 3.73
+    },
+    {
+      "frame_index": 473,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 18920.0,
+      "sharpness": 404.1,
+      "frame_diff": 3.45
+    },
+    {
+      "frame_index": 474,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 18960.0,
+      "sharpness": 409.57,
+      "frame_diff": 3.4
+    },
+    {
+      "frame_index": 475,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 19000.0,
+      "sharpness": 410.69,
+      "frame_diff": 3.4
+    },
+    {
+      "frame_index": 476,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 19040.0,
+      "sharpness": 416.92,
+      "frame_diff": 3.36
+    },
+    {
+      "frame_index": 477,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 19080.0,
+      "sharpness": 409.63,
+      "frame_diff": 3.45
+    },
+    {
+      "frame_index": 478,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 19120.0,
+      "sharpness": 424.04,
+      "frame_diff": 3.51
+    },
+    {
+      "frame_index": 479,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 19160.0,
+      "sharpness": 405.66,
+      "frame_diff": 3.72
+    },
+    {
+      "frame_index": 480,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 19200.0,
+      "sharpness": 437.36,
+      "frame_diff": 4.08
+    },
+    {
+      "frame_index": 481,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 19240.0,
+      "sharpness": 396.11,
+      "frame_diff": 3.67
+    },
+    {
+      "frame_index": 482,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 19280.0,
+      "sharpness": 418.01,
+      "frame_diff": 3.44
+    },
+    {
+      "frame_index": 483,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 19320.0,
+      "sharpness": 409.03,
+      "frame_diff": 3.34
+    },
+    {
+      "frame_index": 484,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 19360.0,
+      "sharpness": 405.15,
+      "frame_diff": 3.3
+    },
+    {
+      "frame_index": 485,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 19400.0,
+      "sharpness": 406.52,
+      "frame_diff": 3.27
+    },
+    {
+      "frame_index": 486,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 19440.0,
+      "sharpness": 422.87,
+      "frame_diff": 3.27
+    },
+    {
+      "frame_index": 487,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 19480.0,
+      "sharpness": 409.22,
+      "frame_diff": 3.32
+    },
+    {
+      "frame_index": 488,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 19520.0,
+      "sharpness": 420.21,
+      "frame_diff": 3.19
+    },
+    {
+      "frame_index": 489,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 19560.0,
+      "sharpness": 415.28,
+      "frame_diff": 3.09
+    },
+    {
+      "frame_index": 490,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 19600.0,
+      "sharpness": 423.21,
+      "frame_diff": 3.08
+    },
+    {
+      "frame_index": 491,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 19640.0,
+      "sharpness": 402.63,
+      "frame_diff": 3.18
+    },
+    {
+      "frame_index": 492,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 19680.0,
+      "sharpness": 437.28,
+      "frame_diff": 3.58
+    },
+    {
+      "frame_index": 493,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 19720.0,
+      "sharpness": 417.51,
+      "frame_diff": 3.04
+    },
+    {
+      "frame_index": 494,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 19760.0,
+      "sharpness": 423.41,
+      "frame_diff": 3.05
+    },
+    {
+      "frame_index": 495,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 19800.0,
+      "sharpness": 416.42,
+      "frame_diff": 2.98
+    },
+    {
+      "frame_index": 496,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 19840.0,
+      "sharpness": 419.88,
+      "frame_diff": 3.02
+    },
+    {
+      "frame_index": 497,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 19880.0,
+      "sharpness": 399.37,
+      "frame_diff": 3.03
+    },
+    {
+      "frame_index": 498,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 19920.0,
+      "sharpness": 430.57,
+      "frame_diff": 3.04
+    },
+    {
+      "frame_index": 499,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 19960.0,
+      "sharpness": 421.21,
+      "frame_diff": 3.14
+    },
+    {
+      "frame_index": 500,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 20000.0,
+      "sharpness": 435.33,
+      "frame_diff": 3.28
+    },
+    {
+      "frame_index": 501,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 20040.0,
+      "sharpness": 407.9,
+      "frame_diff": 3.17
+    },
+    {
+      "frame_index": 502,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 20080.0,
+      "sharpness": 422.53,
+      "frame_diff": 3.04
+    },
+    {
+      "frame_index": 503,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 20120.0,
+      "sharpness": 416.8,
+      "frame_diff": 3.2
+    },
+    {
+      "frame_index": 504,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 20160.0,
+      "sharpness": 458.45,
+      "frame_diff": 3.81
+    },
+    {
+      "frame_index": 505,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 20200.0,
+      "sharpness": 432.3,
+      "frame_diff": 3.26
+    },
+    {
+      "frame_index": 506,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 20240.0,
+      "sharpness": 435.32,
+      "frame_diff": 3.38
+    },
+    {
+      "frame_index": 507,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 20280.0,
+      "sharpness": 422.96,
+      "frame_diff": 3.46
+    },
+    {
+      "frame_index": 508,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 20320.0,
+      "sharpness": 443.79,
+      "frame_diff": 3.4
+    },
+    {
+      "frame_index": 509,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 20360.0,
+      "sharpness": 431.77,
+      "frame_diff": 3.24
+    },
+    {
+      "frame_index": 510,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 20400.0,
+      "sharpness": 429.0,
+      "frame_diff": 3.14
+    },
+    {
+      "frame_index": 511,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 20440.0,
+      "sharpness": 410.34,
+      "frame_diff": 3.19
+    },
+    {
+      "frame_index": 512,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 20480.0,
+      "sharpness": 431.4,
+      "frame_diff": 3.24
+    },
+    {
+      "frame_index": 513,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 20520.0,
+      "sharpness": 431.2,
+      "frame_diff": 3.3
+    },
+    {
+      "frame_index": 514,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 20560.0,
+      "sharpness": 434.26,
+      "frame_diff": 3.37
+    },
+    {
+      "frame_index": 515,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 20600.0,
+      "sharpness": 441.1,
+      "frame_diff": 3.54
+    },
+    {
+      "frame_index": 516,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 20640.0,
+      "sharpness": 483.3,
+      "frame_diff": 4.01
+    },
+    {
+      "frame_index": 517,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 20680.0,
+      "sharpness": 454.54,
+      "frame_diff": 3.46
+    },
+    {
+      "frame_index": 518,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 20720.0,
+      "sharpness": 455.06,
+      "frame_diff": 3.56
+    },
+    {
+      "frame_index": 519,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 20760.0,
+      "sharpness": 448.78,
+      "frame_diff": 3.44
+    },
+    {
+      "frame_index": 520,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 20800.0,
+      "sharpness": 457.43,
+      "frame_diff": 3.44
+    },
+    {
+      "frame_index": 521,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 20840.0,
+      "sharpness": 437.0,
+      "frame_diff": 3.53
+    },
+    {
+      "frame_index": 522,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 20880.0,
+      "sharpness": 452.25,
+      "frame_diff": 3.62
+    },
+    {
+      "frame_index": 523,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 20920.0,
+      "sharpness": 445.75,
+      "frame_diff": 3.59
+    },
+    {
+      "frame_index": 524,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 20960.0,
+      "sharpness": 440.37,
+      "frame_diff": 3.73
+    },
+    {
+      "frame_index": 525,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 21000.0,
+      "sharpness": 434.33,
+      "frame_diff": 3.72
+    },
+    {
+      "frame_index": 526,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 21040.0,
+      "sharpness": 439.15,
+      "frame_diff": 3.68
+    },
+    {
+      "frame_index": 527,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 21080.0,
+      "sharpness": 428.26,
+      "frame_diff": 3.74
+    },
+    {
+      "frame_index": 528,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 21120.0,
+      "sharpness": 468.15,
+      "frame_diff": 4.14
+    },
+    {
+      "frame_index": 529,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 21160.0,
+      "sharpness": 443.56,
+      "frame_diff": 3.52
+    },
+    {
+      "frame_index": 530,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 21200.0,
+      "sharpness": 432.61,
+      "frame_diff": 3.67
+    },
+    {
+      "frame_index": 531,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 21240.0,
+      "sharpness": 433.8,
+      "frame_diff": 3.64
+    },
+    {
+      "frame_index": 532,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 21280.0,
+      "sharpness": 459.29,
+      "frame_diff": 3.86
+    },
+    {
+      "frame_index": 533,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 21320.0,
+      "sharpness": 440.4,
+      "frame_diff": 3.6
+    },
+    {
+      "frame_index": 534,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 21360.0,
+      "sharpness": 437.05,
+      "frame_diff": 3.62
+    },
+    {
+      "frame_index": 535,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 21400.0,
+      "sharpness": 438.83,
+      "frame_diff": 3.54
+    },
+    {
+      "frame_index": 536,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 21440.0,
+      "sharpness": 443.27,
+      "frame_diff": 3.53
+    },
+    {
+      "frame_index": 537,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 21480.0,
+      "sharpness": 429.61,
+      "frame_diff": 3.54
+    },
+    {
+      "frame_index": 538,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 21520.0,
+      "sharpness": 441.99,
+      "frame_diff": 3.46
+    },
+    {
+      "frame_index": 539,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 21560.0,
+      "sharpness": 438.46,
+      "frame_diff": 3.36
+    },
+    {
+      "frame_index": 540,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 21600.0,
+      "sharpness": 468.1,
+      "frame_diff": 3.97
+    },
+    {
+      "frame_index": 541,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 21640.0,
+      "sharpness": 438.94,
+      "frame_diff": 3.43
+    },
+    {
+      "frame_index": 542,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 21680.0,
+      "sharpness": 441.74,
+      "frame_diff": 3.31
+    },
+    {
+      "frame_index": 543,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 21720.0,
+      "sharpness": 440.2,
+      "frame_diff": 3.25
+    },
+    {
+      "frame_index": 544,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 21760.0,
+      "sharpness": 445.88,
+      "frame_diff": 3.28
+    },
+    {
+      "frame_index": 545,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 21800.0,
+      "sharpness": 429.03,
+      "frame_diff": 3.27
+    },
+    {
+      "frame_index": 546,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 21840.0,
+      "sharpness": 436.73,
+      "frame_diff": 3.08
+    },
+    {
+      "frame_index": 547,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 21880.0,
+      "sharpness": 420.87,
+      "frame_diff": 3.2
+    },
+    {
+      "frame_index": 548,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 21920.0,
+      "sharpness": 439.36,
+      "frame_diff": 3.28
+    },
+    {
+      "frame_index": 549,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 21960.0,
+      "sharpness": 432.43,
+      "frame_diff": 3.19
+    },
+    {
+      "frame_index": 550,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 22000.0,
+      "sharpness": 440.39,
+      "frame_diff": 3.27
+    },
+    {
+      "frame_index": 551,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 22040.0,
+      "sharpness": 426.05,
+      "frame_diff": 3.34
+    },
+    {
+      "frame_index": 552,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 22080.0,
+      "sharpness": 481.41,
+      "frame_diff": 3.9
+    },
+    {
+      "frame_index": 553,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 22120.0,
+      "sharpness": 459.68,
+      "frame_diff": 3.27
+    },
+    {
+      "frame_index": 554,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 22160.0,
+      "sharpness": 449.48,
+      "frame_diff": 3.43
+    },
+    {
+      "frame_index": 555,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 22200.0,
+      "sharpness": 450.26,
+      "frame_diff": 3.25
+    },
+    {
+      "frame_index": 556,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 22240.0,
+      "sharpness": 461.47,
+      "frame_diff": 3.27
+    },
+    {
+      "frame_index": 557,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 22280.0,
+      "sharpness": 438.72,
+      "frame_diff": 3.35
+    },
+    {
+      "frame_index": 558,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 22320.0,
+      "sharpness": 449.53,
+      "frame_diff": 3.28
+    },
+    {
+      "frame_index": 559,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 22360.0,
+      "sharpness": 450.22,
+      "frame_diff": 3.31
+    },
+    {
+      "frame_index": 560,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 22400.0,
+      "sharpness": 460.82,
+      "frame_diff": 3.31
+    },
+    {
+      "frame_index": 561,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 22440.0,
+      "sharpness": 435.15,
+      "frame_diff": 3.51
+    },
+    {
+      "frame_index": 562,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 22480.0,
+      "sharpness": 456.25,
+      "frame_diff": 3.51
+    },
+    {
+      "frame_index": 563,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 22520.0,
+      "sharpness": 447.89,
+      "frame_diff": 3.5
+    },
+    {
+      "frame_index": 564,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 22560.0,
+      "sharpness": 475.22,
+      "frame_diff": 4.03
+    },
+    {
+      "frame_index": 565,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 22600.0,
+      "sharpness": 460.84,
+      "frame_diff": 3.61
+    },
+    {
+      "frame_index": 566,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 22640.0,
+      "sharpness": 458.97,
+      "frame_diff": 3.65
+    },
+    {
+      "frame_index": 567,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 22680.0,
+      "sharpness": 441.33,
+      "frame_diff": 3.78
+    },
+    {
+      "frame_index": 568,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 22720.0,
+      "sharpness": 455.94,
+      "frame_diff": 3.87
+    },
+    {
+      "frame_index": 569,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 22760.0,
+      "sharpness": 454.2,
+      "frame_diff": 3.98
+    },
+    {
+      "frame_index": 570,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 22800.0,
+      "sharpness": 450.51,
+      "frame_diff": 4.0
+    },
+    {
+      "frame_index": 571,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 22840.0,
+      "sharpness": 433.45,
+      "frame_diff": 4.0
+    },
+    {
+      "frame_index": 572,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 22880.0,
+      "sharpness": 454.01,
+      "frame_diff": 3.98
+    },
+    {
+      "frame_index": 573,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 22920.0,
+      "sharpness": 442.22,
+      "frame_diff": 3.97
+    },
+    {
+      "frame_index": 574,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 22960.0,
+      "sharpness": 433.58,
+      "frame_diff": 3.81
+    },
+    {
+      "frame_index": 575,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 23000.0,
+      "sharpness": 436.36,
+      "frame_diff": 3.76
+    },
+    {
+      "frame_index": 576,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 23040.0,
+      "sharpness": 469.4,
+      "frame_diff": 4.11
+    },
+    {
+      "frame_index": 577,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 23080.0,
+      "sharpness": 440.61,
+      "frame_diff": 3.5
+    },
+    {
+      "frame_index": 578,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 23120.0,
+      "sharpness": 448.55,
+      "frame_diff": 3.44
+    },
+    {
+      "frame_index": 579,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 23160.0,
+      "sharpness": 440.66,
+      "frame_diff": 3.38
+    },
+    {
+      "frame_index": 580,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 23200.0,
+      "sharpness": 444.37,
+      "frame_diff": 3.26
+    },
+    {
+      "frame_index": 581,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 23240.0,
+      "sharpness": 420.07,
+      "frame_diff": 3.22
+    },
+    {
+      "frame_index": 582,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 23280.0,
+      "sharpness": 433.76,
+      "frame_diff": 3.15
+    },
+    {
+      "frame_index": 583,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 23320.0,
+      "sharpness": 437.13,
+      "frame_diff": 3.07
+    },
+    {
+      "frame_index": 584,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 23360.0,
+      "sharpness": 429.67,
+      "frame_diff": 3.16
+    },
+    {
+      "frame_index": 585,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 23400.0,
+      "sharpness": 433.26,
+      "frame_diff": 3.07
+    },
+    {
+      "frame_index": 586,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 23440.0,
+      "sharpness": 436.36,
+      "frame_diff": 3.02
+    },
+    {
+      "frame_index": 587,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 23480.0,
+      "sharpness": 420.92,
+      "frame_diff": 2.99
+    },
+    {
+      "frame_index": 588,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 23520.0,
+      "sharpness": 452.3,
+      "frame_diff": 3.54
+    },
+    {
+      "frame_index": 589,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 23560.0,
+      "sharpness": 441.31,
+      "frame_diff": 2.92
+    },
+    {
+      "frame_index": 590,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 23600.0,
+      "sharpness": 430.67,
+      "frame_diff": 2.92
+    },
+    {
+      "frame_index": 591,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 23640.0,
+      "sharpness": 417.99,
+      "frame_diff": 2.94
+    },
+    {
+      "frame_index": 592,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 23680.0,
+      "sharpness": 433.0,
+      "frame_diff": 2.86
+    },
+    {
+      "frame_index": 593,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 23720.0,
+      "sharpness": 428.13,
+      "frame_diff": 2.92
+    },
+    {
+      "frame_index": 594,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 23760.0,
+      "sharpness": 420.72,
+      "frame_diff": 2.96
+    },
+    {
+      "frame_index": 595,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 23800.0,
+      "sharpness": 424.41,
+      "frame_diff": 2.88
+    },
+    {
+      "frame_index": 596,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 23840.0,
+      "sharpness": 435.99,
+      "frame_diff": 2.92
+    },
+    {
+      "frame_index": 597,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 23880.0,
+      "sharpness": 420.8,
+      "frame_diff": 3.0
+    },
+    {
+      "frame_index": 598,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 23920.0,
+      "sharpness": 428.68,
+      "frame_diff": 2.98
+    },
+    {
+      "frame_index": 599,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 23960.0,
+      "sharpness": 426.61,
+      "frame_diff": 2.93
+    },
+    {
+      "frame_index": 600,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 24000.0,
+      "sharpness": 452.97,
+      "frame_diff": 3.59
+    },
+    {
+      "frame_index": 601,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 24040.0,
+      "sharpness": 425.54,
+      "frame_diff": 3.03
+    },
+    {
+      "frame_index": 602,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 24080.0,
+      "sharpness": 437.45,
+      "frame_diff": 3.03
+    },
+    {
+      "frame_index": 603,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 24120.0,
+      "sharpness": 434.92,
+      "frame_diff": 2.86
+    },
+    {
+      "frame_index": 604,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 24160.0,
+      "sharpness": 428.8,
+      "frame_diff": 2.86
+    },
+    {
+      "frame_index": 605,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 24200.0,
+      "sharpness": 430.83,
+      "frame_diff": 2.8
+    },
+    {
+      "frame_index": 606,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 24240.0,
+      "sharpness": 435.3,
+      "frame_diff": 2.73
+    },
+    {
+      "frame_index": 607,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 24280.0,
+      "sharpness": 425.93,
+      "frame_diff": 2.75
+    },
+    {
+      "frame_index": 608,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 24320.0,
+      "sharpness": 443.44,
+      "frame_diff": 3.08
+    },
+    {
+      "frame_index": 609,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 24360.0,
+      "sharpness": 422.21,
+      "frame_diff": 3.64
+    },
+    {
+      "frame_index": 610,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 24400.0,
+      "sharpness": 416.94,
+      "frame_diff": 3.27
+    },
+    {
+      "frame_index": 611,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 24440.0,
+      "sharpness": 406.11,
+      "frame_diff": 3.02
+    },
+    {
+      "frame_index": 612,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 24480.0,
+      "sharpness": 444.93,
+      "frame_diff": 3.59
+    },
+    {
+      "frame_index": 613,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 24520.0,
+      "sharpness": 434.58,
+      "frame_diff": 3.03
+    },
+    {
+      "frame_index": 614,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 24560.0,
+      "sharpness": 424.6,
+      "frame_diff": 3.11
+    },
+    {
+      "frame_index": 615,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 24600.0,
+      "sharpness": 425.61,
+      "frame_diff": 3.13
+    },
+    {
+      "frame_index": 616,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 24640.0,
+      "sharpness": 433.49,
+      "frame_diff": 3.0
+    },
+    {
+      "frame_index": 617,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 24680.0,
+      "sharpness": 415.75,
+      "frame_diff": 3.02
+    },
+    {
+      "frame_index": 618,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 24720.0,
+      "sharpness": 422.61,
+      "frame_diff": 2.94
+    },
+    {
+      "frame_index": 619,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 24760.0,
+      "sharpness": 422.05,
+      "frame_diff": 2.87
+    },
+    {
+      "frame_index": 620,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 24800.0,
+      "sharpness": 422.11,
+      "frame_diff": 2.95
+    },
+    {
+      "frame_index": 621,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 24840.0,
+      "sharpness": 393.75,
+      "frame_diff": 3.51
+    },
+    {
+      "frame_index": 622,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 24880.0,
+      "sharpness": 409.08,
+      "frame_diff": 3.48
+    },
+    {
+      "frame_index": 623,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 24920.0,
+      "sharpness": 414.62,
+      "frame_diff": 3.14
+    },
+    {
+      "frame_index": 624,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 24960.0,
+      "sharpness": 437.4,
+      "frame_diff": 3.62
+    },
+    {
+      "frame_index": 625,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 25000.0,
+      "sharpness": 433.89,
+      "frame_diff": 2.98
+    },
+    {
+      "frame_index": 626,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 25040.0,
+      "sharpness": 431.7,
+      "frame_diff": 3.1
+    },
+    {
+      "frame_index": 627,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 25080.0,
+      "sharpness": 414.27,
+      "frame_diff": 3.13
+    },
+    {
+      "frame_index": 628,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 25120.0,
+      "sharpness": 427.58,
+      "frame_diff": 3.02
+    },
+    {
+      "frame_index": 629,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 25160.0,
+      "sharpness": 422.22,
+      "frame_diff": 3.0
+    },
+    {
+      "frame_index": 630,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 25200.0,
+      "sharpness": 412.02,
+      "frame_diff": 3.02
+    },
+    {
+      "frame_index": 631,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 25240.0,
+      "sharpness": 398.82,
+      "frame_diff": 2.99
+    },
+    {
+      "frame_index": 632,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 25280.0,
+      "sharpness": 420.76,
+      "frame_diff": 2.99
+    },
+    {
+      "frame_index": 633,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 25320.0,
+      "sharpness": 414.45,
+      "frame_diff": 2.91
+    },
+    {
+      "frame_index": 634,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 25360.0,
+      "sharpness": 404.71,
+      "frame_diff": 3.08
+    },
+    {
+      "frame_index": 635,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 25400.0,
+      "sharpness": 405.13,
+      "frame_diff": 3.47
+    },
+    {
+      "frame_index": 636,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 25440.0,
+      "sharpness": 447.17,
+      "frame_diff": 3.57
+    },
+    {
+      "frame_index": 637,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 25480.0,
+      "sharpness": 425.63,
+      "frame_diff": 3.07
+    },
+    {
+      "frame_index": 638,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 25520.0,
+      "sharpness": 429.55,
+      "frame_diff": 3.17
+    },
+    {
+      "frame_index": 639,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 25560.0,
+      "sharpness": 424.55,
+      "frame_diff": 3.29
+    },
+    {
+      "frame_index": 640,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 25600.0,
+      "sharpness": 421.0,
+      "frame_diff": 3.35
+    },
+    {
+      "frame_index": 641,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 25640.0,
+      "sharpness": 403.03,
+      "frame_diff": 3.23
+    },
+    {
+      "frame_index": 642,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 25680.0,
+      "sharpness": 418.86,
+      "frame_diff": 3.12
+    },
+    {
+      "frame_index": 643,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 25720.0,
+      "sharpness": 413.61,
+      "frame_diff": 3.0
+    },
+    {
+      "frame_index": 644,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 25760.0,
+      "sharpness": 412.19,
+      "frame_diff": 3.13
+    },
+    {
+      "frame_index": 645,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 25800.0,
+      "sharpness": 403.75,
+      "frame_diff": 3.88
+    },
+    {
+      "frame_index": 646,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 25840.0,
+      "sharpness": 408.6,
+      "frame_diff": 3.7
+    },
+    {
+      "frame_index": 647,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 25880.0,
+      "sharpness": 389.39,
+      "frame_diff": 3.62
+    },
+    {
+      "frame_index": 648,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 25920.0,
+      "sharpness": 434.34,
+      "frame_diff": 3.86
+    },
+    {
+      "frame_index": 649,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 25960.0,
+      "sharpness": 418.46,
+      "frame_diff": 3.38
+    },
+    {
+      "frame_index": 650,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 26000.0,
+      "sharpness": 408.05,
+      "frame_diff": 3.44
+    },
+    {
+      "frame_index": 651,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 26040.0,
+      "sharpness": 380.31,
+      "frame_diff": 3.49
+    },
+    {
+      "frame_index": 652,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 26080.0,
+      "sharpness": 405.5,
+      "frame_diff": 3.61
+    },
+    {
+      "frame_index": 653,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 26120.0,
+      "sharpness": 389.28,
+      "frame_diff": 3.58
+    },
+    {
+      "frame_index": 654,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 26160.0,
+      "sharpness": 382.6,
+      "frame_diff": 3.66
+    },
+    {
+      "frame_index": 655,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 26200.0,
+      "sharpness": 389.51,
+      "frame_diff": 3.58
+    },
+    {
+      "frame_index": 656,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 26240.0,
+      "sharpness": 399.61,
+      "frame_diff": 3.45
+    },
+    {
+      "frame_index": 657,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 26280.0,
+      "sharpness": 380.05,
+      "frame_diff": 3.68
+    },
+    {
+      "frame_index": 658,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 26320.0,
+      "sharpness": 386.88,
+      "frame_diff": 3.8
+    },
+    {
+      "frame_index": 659,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 26360.0,
+      "sharpness": 386.13,
+      "frame_diff": 3.72
+    },
+    {
+      "frame_index": 660,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 26400.0,
+      "sharpness": 410.64,
+      "frame_diff": 4.01
+    },
+    {
+      "frame_index": 661,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 26440.0,
+      "sharpness": 372.33,
+      "frame_diff": 3.43
+    },
+    {
+      "frame_index": 662,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 26480.0,
+      "sharpness": 388.36,
+      "frame_diff": 3.36
+    },
+    {
+      "frame_index": 663,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 26520.0,
+      "sharpness": 383.6,
+      "frame_diff": 3.31
+    },
+    {
+      "frame_index": 664,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 26560.0,
+      "sharpness": 382.08,
+      "frame_diff": 3.43
+    },
+    {
+      "frame_index": 665,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 26600.0,
+      "sharpness": 301.32,
+      "frame_diff": 5.04
+    },
+    {
+      "frame_index": 666,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 26640.0,
+      "sharpness": 373.06,
+      "frame_diff": 3.81
+    },
+    {
+      "frame_index": 667,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 26680.0,
+      "sharpness": 287.83,
+      "frame_diff": 4.97
+    },
+    {
+      "frame_index": 668,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 26720.0,
+      "sharpness": 377.84,
+      "frame_diff": 3.95
+    },
+    {
+      "frame_index": 669,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 26760.0,
+      "sharpness": 298.66,
+      "frame_diff": 5.17
+    },
+    {
+      "frame_index": 670,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 26800.0,
+      "sharpness": 363.09,
+      "frame_diff": 4.44
+    },
+    {
+      "frame_index": 671,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 26840.0,
+      "sharpness": 339.69,
+      "frame_diff": 3.92
+    },
+    {
+      "frame_index": 672,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 26880.0,
+      "sharpness": 394.97,
+      "frame_diff": 4.1
+    },
+    {
+      "frame_index": 673,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 26920.0,
+      "sharpness": 294.49,
+      "frame_diff": 5.2
+    },
+    {
+      "frame_index": 674,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 26960.0,
+      "sharpness": 286.59,
+      "frame_diff": 3.7
+    },
+    {
+      "frame_index": 675,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 27000.0,
+      "sharpness": 288.79,
+      "frame_diff": 3.68
+    },
+    {
+      "frame_index": 676,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 27040.0,
+      "sharpness": 368.56,
+      "frame_diff": 3.91
+    },
+    {
+      "frame_index": 677,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 27080.0,
+      "sharpness": 286.52,
+      "frame_diff": 4.99
+    },
+    {
+      "frame_index": 678,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 27120.0,
+      "sharpness": 297.68,
+      "frame_diff": 3.69
+    },
+    {
+      "frame_index": 679,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 27160.0,
+      "sharpness": 371.13,
+      "frame_diff": 4.73
+    },
+    {
+      "frame_index": 680,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 27200.0,
+      "sharpness": 375.92,
+      "frame_diff": 4.6
+    },
+    {
+      "frame_index": 681,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 27240.0,
+      "sharpness": 349.26,
+      "frame_diff": 4.05
+    },
+    {
+      "frame_index": 682,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 27280.0,
+      "sharpness": 375.82,
+      "frame_diff": 3.97
+    },
+    {
+      "frame_index": 683,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 27320.0,
+      "sharpness": 380.13,
+      "frame_diff": 4.02
+    },
+    {
+      "frame_index": 684,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 27360.0,
+      "sharpness": 416.2,
+      "frame_diff": 4.91
+    },
+    {
+      "frame_index": 685,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 27400.0,
+      "sharpness": 407.7,
+      "frame_diff": 3.7
+    },
+    {
+      "frame_index": 686,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 27440.0,
+      "sharpness": 402.56,
+      "frame_diff": 3.74
+    },
+    {
+      "frame_index": 687,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 27480.0,
+      "sharpness": 388.31,
+      "frame_diff": 3.94
+    },
+    {
+      "frame_index": 688,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 27520.0,
+      "sharpness": 415.33,
+      "frame_diff": 4.24
+    },
+    {
+      "frame_index": 689,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 27560.0,
+      "sharpness": 420.17,
+      "frame_diff": 4.41
+    },
+    {
+      "frame_index": 690,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 27600.0,
+      "sharpness": 413.04,
+      "frame_diff": 4.45
+    },
+    {
+      "frame_index": 691,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 27640.0,
+      "sharpness": 398.95,
+      "frame_diff": 5.79
+    },
+    {
+      "frame_index": 692,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 27680.0,
+      "sharpness": 435.46,
+      "frame_diff": 5.21
+    },
+    {
+      "frame_index": 693,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 27720.0,
+      "sharpness": 424.73,
+      "frame_diff": 4.3
+    },
+    {
+      "frame_index": 694,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 27760.0,
+      "sharpness": 420.96,
+      "frame_diff": 4.9
+    },
+    {
+      "frame_index": 695,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 27800.0,
+      "sharpness": 435.37,
+      "frame_diff": 5.32
+    },
+    {
+      "frame_index": 696,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 27840.0,
+      "sharpness": 474.51,
+      "frame_diff": 5.86
+    },
+    {
+      "frame_index": 697,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 27880.0,
+      "sharpness": 444.67,
+      "frame_diff": 4.6
+    },
+    {
+      "frame_index": 698,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 27920.0,
+      "sharpness": 457.64,
+      "frame_diff": 4.33
+    },
+    {
+      "frame_index": 699,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 27960.0,
+      "sharpness": 452.44,
+      "frame_diff": 4.25
+    },
+    {
+      "frame_index": 700,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 28000.0,
+      "sharpness": 440.1,
+      "frame_diff": 4.31
+    },
+    {
+      "frame_index": 701,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 28040.0,
+      "sharpness": 405.12,
+      "frame_diff": 4.86
+    },
+    {
+      "frame_index": 702,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 28080.0,
+      "sharpness": 422.22,
+      "frame_diff": 5.37
+    },
+    {
+      "frame_index": 703,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 28120.0,
+      "sharpness": 414.03,
+      "frame_diff": 4.47
+    },
+    {
+      "frame_index": 704,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 28160.0,
+      "sharpness": 400.29,
+      "frame_diff": 4.05
+    },
+    {
+      "frame_index": 705,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 28200.0,
+      "sharpness": 416.88,
+      "frame_diff": 4.79
+    },
+    {
+      "frame_index": 706,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 28240.0,
+      "sharpness": 429.16,
+      "frame_diff": 6.52
+    },
+    {
+      "frame_index": 707,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 28280.0,
+      "sharpness": 421.51,
+      "frame_diff": 6.31
+    },
+    {
+      "frame_index": 708,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 28320.0,
+      "sharpness": 437.65,
+      "frame_diff": 5.96
+    },
+    {
+      "frame_index": 709,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 28360.0,
+      "sharpness": 429.55,
+      "frame_diff": 5.8
+    },
+    {
+      "frame_index": 710,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 28400.0,
+      "sharpness": 404.28,
+      "frame_diff": 5.3
+    },
+    {
+      "frame_index": 711,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 28440.0,
+      "sharpness": 374.24,
+      "frame_diff": 4.21
+    },
+    {
+      "frame_index": 712,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 28480.0,
+      "sharpness": 389.16,
+      "frame_diff": 4.66
+    },
+    {
+      "frame_index": 713,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 28520.0,
+      "sharpness": 385.91,
+      "frame_diff": 4.25
+    },
+    {
+      "frame_index": 714,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 28560.0,
+      "sharpness": 380.31,
+      "frame_diff": 4.08
+    },
+    {
+      "frame_index": 715,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 28600.0,
+      "sharpness": 381.92,
+      "frame_diff": 3.99
+    },
+    {
+      "frame_index": 716,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 28640.0,
+      "sharpness": 381.9,
+      "frame_diff": 3.61
+    },
+    {
+      "frame_index": 717,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 28680.0,
+      "sharpness": 362.81,
+      "frame_diff": 3.59
+    },
+    {
+      "frame_index": 718,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 28720.0,
+      "sharpness": 382.29,
+      "frame_diff": 3.51
+    },
+    {
+      "frame_index": 719,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 28760.0,
+      "sharpness": 380.81,
+      "frame_diff": 3.47
+    },
+    {
+      "frame_index": 720,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 28800.0,
+      "sharpness": 378.47,
+      "frame_diff": 3.98
+    },
+    {
+      "frame_index": 721,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 28840.0,
+      "sharpness": 350.69,
+      "frame_diff": 3.34
+    },
+    {
+      "frame_index": 722,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 28880.0,
+      "sharpness": 372.56,
+      "frame_diff": 3.26
+    },
+    {
+      "frame_index": 723,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 28920.0,
+      "sharpness": 369.17,
+      "frame_diff": 3.36
+    },
+    {
+      "frame_index": 724,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 28960.0,
+      "sharpness": 361.54,
+      "frame_diff": 3.39
+    },
+    {
+      "frame_index": 725,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 29000.0,
+      "sharpness": 373.52,
+      "frame_diff": 3.35
+    },
+    {
+      "frame_index": 726,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 29040.0,
+      "sharpness": 379.15,
+      "frame_diff": 3.32
+    },
+    {
+      "frame_index": 727,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 29080.0,
+      "sharpness": 358.53,
+      "frame_diff": 3.27
+    },
+    {
+      "frame_index": 728,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 29120.0,
+      "sharpness": 374.73,
+      "frame_diff": 3.24
+    },
+    {
+      "frame_index": 729,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 29160.0,
+      "sharpness": 377.51,
+      "frame_diff": 3.21
+    },
+    {
+      "frame_index": 730,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 29200.0,
+      "sharpness": 376.65,
+      "frame_diff": 3.33
+    },
+    {
+      "frame_index": 731,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 29240.0,
+      "sharpness": 357.61,
+      "frame_diff": 3.57
+    },
+    {
+      "frame_index": 732,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 29280.0,
+      "sharpness": 399.44,
+      "frame_diff": 4.37
+    },
+    {
+      "frame_index": 733,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 29320.0,
+      "sharpness": 383.83,
+      "frame_diff": 3.88
+    },
+    {
+      "frame_index": 734,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 29360.0,
+      "sharpness": 374.42,
+      "frame_diff": 4.15
+    },
+    {
+      "frame_index": 735,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 29400.0,
+      "sharpness": 377.48,
+      "frame_diff": 3.75
+    },
+    {
+      "frame_index": 736,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 29440.0,
+      "sharpness": 383.88,
+      "frame_diff": 3.64
+    },
+    {
+      "frame_index": 737,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 29480.0,
+      "sharpness": 368.05,
+      "frame_diff": 3.69
+    },
+    {
+      "frame_index": 738,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 29520.0,
+      "sharpness": 382.23,
+      "frame_diff": 3.77
+    },
+    {
+      "frame_index": 739,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 29560.0,
+      "sharpness": 380.64,
+      "frame_diff": 3.63
+    },
+    {
+      "frame_index": 740,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 29600.0,
+      "sharpness": 363.21,
+      "frame_diff": 3.55
+    },
+    {
+      "frame_index": 741,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 29640.0,
+      "sharpness": 344.22,
+      "frame_diff": 3.42
+    },
+    {
+      "frame_index": 742,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 29680.0,
+      "sharpness": 366.8,
+      "frame_diff": 3.31
+    },
+    {
+      "frame_index": 743,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 29720.0,
+      "sharpness": 365.26,
+      "frame_diff": 3.3
+    },
+    {
+      "frame_index": 744,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 29760.0,
+      "sharpness": 376.2,
+      "frame_diff": 3.95
+    },
+    {
+      "frame_index": 745,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 29800.0,
+      "sharpness": 380.31,
+      "frame_diff": 3.36
+    },
+    {
+      "frame_index": 746,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 29840.0,
+      "sharpness": 382.41,
+      "frame_diff": 3.37
+    },
+    {
+      "frame_index": 747,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 29880.0,
+      "sharpness": 358.88,
+      "frame_diff": 3.49
+    },
+    {
+      "frame_index": 748,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 29920.0,
+      "sharpness": 375.37,
+      "frame_diff": 3.35
+    },
+    {
+      "frame_index": 749,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 29960.0,
+      "sharpness": 377.01,
+      "frame_diff": 3.42
+    },
+    {
+      "frame_index": 750,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 30000.0,
+      "sharpness": 370.98,
+      "frame_diff": 3.64
+    },
+    {
+      "frame_index": 751,
+      "status": "Normal",
+      "confidence": 1.0,
+      "timestamp": 30040.0,
+      "sharpness": 350.16,
+      "frame_diff": 3.5
+    }
+  ]
+}
